@@ -83,7 +83,7 @@ with open(filename, mode='w') as f:
                             if os.stat(filename).st_size >= 5000000000:
                                 f.write(']')
                                 print('Got 5 GB. Done!')
-                                break
+                                sys.exit()
 
                         #   Add user to seen list
                         seen_user.append(friend)
