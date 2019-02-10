@@ -6,7 +6,7 @@ Mainly used the tweepy module to access Twitter's APIs. Started with some popula
 
 The main rule was to only crawl tweets that were geo-tagged. In order to ensure this, a check was performed to check a user's geo_enabled field, and the program will only crawl the user's tweets if it was enabled.
 
-Download the batch file and navigate the directory containing all of the files. In order to run the script and the crawler, do the following according the operating system type:
+Download the batch file and navigate the directory containing all of the files. Before running the file, modify keys.txt with the Twitter consumer key, consumer secret, access token, and access token secret on separate lines provided by creating an application through a Twitter developer account. In order to run the script and the crawler, do the following according the operating system type:
 
 **Windows**: Type crawler 
 
