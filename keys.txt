@@ -1,0 +1,4 @@
+Replace this line with the consumer key
+Replace this line with the consumer secret
+Replace this line with the access token
+Replace this line with the access token secret
