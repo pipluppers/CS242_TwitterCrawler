@@ -1,4 +1,4 @@
-# CS242_TwitterCrawler
+# Twitter Crawler
 
 ### Project provided by Prof. Vagelis Hristidis for CS 242 Information Retrieval at UCR.
 
